@@ -22,15 +22,16 @@ This project implements a **Neural Machine Translation (NMT)** system to transli
 - ├── evaluation/ # Evaluation metrics & results
 - ├── app/ # Streamlit app for deployment
 - └── README.md # Project documentation
---------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Requirements  
 - Python 3.8+  
 - PyTorch  
 - NumPy, Pandas  
-- SacreBLEU / nltk (for BLEU score)  
-- Streamlit (for deployment)
+- SacreBLEU / nltk (for BLEU score)
+  
   --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Install dependencies:  
 ```bash
 pip install -r requirements.txt
+----------------------------------------------------------------------------------------------------------------------------------------------------------
