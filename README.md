@@ -15,13 +15,13 @@ This project implements a **Neural Machine Translation (NMT)** system to transli
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Project Structure  
-├── data/ # Dataset (processed files)
-├── preprocessing/ # Urdu text cleaning & tokenization
-├── models/ # Encoder, Decoder, Seq2Seq model code
-├── experiments/ # Training scripts & hyperparameter variations
-├── evaluation/ # Evaluation metrics & results
-├── app/ # Streamlit app for deployment
-└── README.md # Project documentation
+- ├── data/ # Dataset (processed files)
+- ├── preprocessing/ # Urdu text cleaning & tokenization
+- ├── models/ # Encoder, Decoder, Seq2Seq model code
+- ├── experiments/ # Training scripts & hyperparameter variations
+- ├── evaluation/ # Evaluation metrics & results
+- ├── app/ # Streamlit app for deployment
+- └── README.md # Project documentation
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ##  Requirements  
 - Python 3.8+  
